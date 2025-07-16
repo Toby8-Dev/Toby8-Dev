@@ -3,5 +3,5 @@
 - 👦 It's weird, but yes, I am only 12! :)
 - 👀 I want to become a software engineer! I also like playing football as my hobby.
 - 🌱 I’m currently learning Python and also LUA!
-- 📫 If you ever want to give me some advice, or anything else, just write me an email: tobiaspechob@gmail.com :)
+- 📫 If you ever want to help me, or write about anything else, just write me an email: tobiaspechob@gmail.com :)
 - ⚡ If I didn't start creating fun little games on Roblox, I woudn't be interested in coding.
