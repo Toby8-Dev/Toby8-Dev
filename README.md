@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Toby8-Dev
-- 👀 I’m interested in creating apps and I like football.
-- 🌱 I’m currently learning Python, Javascript and C++
-- 📫 How to reach me tobiaspechob@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I started liking coding because of Roblox!
-
-<!---
-Toby8-Dev/Toby8-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, my name is Tobias Pecho!
+- 🇸🇰 I am from Slovakia!
+- 👦 It's weird, but yes, I am only 12! :)
+- 👀 I want to become a software engineer! I also like playing football as my hobby.
+- 🌱 I’m currently learning Python and also LUA!
+- 📫 If you ever want to give me some advice, or anything else, just write me an email: tobiaspechob@gmail.com :)
+- ⚡ If I didn't start creating fun little games on Roblox, I woudn't be interested in coding.
