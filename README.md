@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning Python and also LUA!
 - 📫 If you ever want to help me, or write about anything else, just write me an email: tobiaspechob@gmail.com :)
 - ⚡ If I didn't start creating fun little games on Roblox, I woudn't be interested in coding.
+- ⚽ My favourite football team is Real Madrid, and my favourite players is Federico Valverde! :)
